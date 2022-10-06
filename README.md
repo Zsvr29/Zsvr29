@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hello I' am Zahide I'am a Software Enginner</div>  
+### <div align="center">Hello I' am Zahide I'am a Software Engineer</div>  
   
 
 - 🔭 I’m currently working  Java, C# and Sql .
